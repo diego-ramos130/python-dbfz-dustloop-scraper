@@ -4,7 +4,7 @@
 # How To Use: 
 My python experience is extremely limited, so bear with me. 
 
-You want to `git clone [this repo]`, `pip install scrapy` (assuming you have pip already) inside of that repo's directory, and then `scrapy run spider dbfz/the/spider/you/want/to/run.py -0 nameofjsonfile.json`.
+You want to `git clone [this repo]`, `pip install scrapy` (assuming you have pip already) inside of that repo's directory, and then `scrapy runspider dbfz/the/spider/you/want/to/run.py -0 nameofjsonfile.json`.
 that'll get you off the ground.
 
 # Shoutouts to
