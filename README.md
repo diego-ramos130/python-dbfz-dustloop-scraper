@@ -12,6 +12,7 @@ that'll get you off the ground.
 [Scrapy](https://scrapy.org/)
 
 # Version 
+`1.0.0` - everything has been scraped from the dbfz wiki, but Cooler, base Goku and Vegeta, and Vegito are all Not Updated
 `0.0.1` - prototype scraped Android 16's wiki page. Need to find a way to loop more intelligently, but the framework is there.
 
 # Author
